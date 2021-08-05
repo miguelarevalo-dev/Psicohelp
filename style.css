@@ -1,0 +1,21 @@
+@import url(https://fonts.google.com/specimen/Be+Vietnam);
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+    font-family: Be+Vietman;
+    font-size: 16px;
+}
+
+/* .encabezado ul a {
+    position: sticky;
+    display: inline-flex;
+    font-family: Be+Vietnam;
+    font-size: 16px;
+    left: 30%;
+
+} */
+
